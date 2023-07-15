@@ -1,2 +1,2 @@
 # Ecommerce-FrontEnd
-This is an Ecommerce FrontEnd Made using Html, Css and Javascript.
+This is an Ecommerce FrontEnd made using Html, Css and Javascript.
